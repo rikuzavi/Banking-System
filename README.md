@@ -1,6 +1,9 @@
 # Banking-System
 
 DUMMY ADMIN --   id -> patrick bateman   ,   password -> phsyco
+DUMMY ACCOUNT -- 
+accno -> 3536612023  pass -> bald@123
+accno -> 3991442023  pass -> sala@123
 
 
 o  MAIN PAGE  -->
