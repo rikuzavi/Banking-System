@@ -1,5 +1,7 @@
 # Banking-System
 
+DUMMY ADMIN --   id -> patrick bateman   ,   password -> phsyco
+
 
 o  MAIN PAGE  -->
 
@@ -11,9 +13,9 @@ Bank Account holder login
 
 ![image](https://github.com/rikuzavi/Banking-System/assets/96969805/3a6e6010-963f-4c81-b49c-14f3fe617f2e)
 
-        ----- ACCOUNT HOLDER CAN ACCESS -----
+----- ACCOUNT HOLDER CAN ACCESS -----
         
-        ![image](https://github.com/rikuzavi/Banking-System/assets/96969805/3100609c-52ab-40c5-995e-6d607fb23b09)
+![image](https://github.com/rikuzavi/Banking-System/assets/96969805/3100609c-52ab-40c5-995e-6d607fb23b09)
 
 o  CREATE  ACCOUNT  -->
 
